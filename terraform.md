@@ -159,5 +159,6 @@ Terraform is an open-source platform that provides tools for implementing Infras
 - **Automate with CI/CD**: Integrate Terraform with CI/CD pipelines to automate infrastructure provisioning and management as part of your deployment processes.
 - **Document Your Configuration**: Include comments and documentation in your Terraform files to make them easier to understand and maintain.
 
-By following these steps and best practices, you can effectively manage and automate your infrastructure using Terraform.
-```
+### References
+- https://developer.hashicorp.com/terraform/tutorials
+- https://youtu.be/nvNqfgojocs?si=-AEoWrEbMvdGADzY
